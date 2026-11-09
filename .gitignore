@@ -1,0 +1,30 @@
+# Compiled executables
+server
+client
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.gch
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
